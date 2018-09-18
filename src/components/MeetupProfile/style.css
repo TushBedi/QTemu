@@ -1,0 +1,20 @@
+
+.profile {
+    display: inline-flex;
+}
+
+.image {
+    width: 200px;
+    height: 200px;
+    padding-right: 10px;
+}
+
+td {
+    padding-left: 20px;
+    padding-bottom: 10px;
+}
+
+h2 {
+    margin-top: 0% !important;
+
+}
