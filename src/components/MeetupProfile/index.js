@@ -9,7 +9,8 @@ class MeetupProfile extends Component {
         super ()
 
         this.state = {
-            date: new Date()
+            date: new Date(),
+            isOpened: false
         }
     }
 

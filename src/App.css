@@ -10,9 +10,9 @@
 }
 
 .grey-section {
-  width: 97%;
   margin: 10px;
   padding: 10px;
   background: lightgrey;
-  display: inline-flex;
+  display: flex;
+  flex: 1;
 }
